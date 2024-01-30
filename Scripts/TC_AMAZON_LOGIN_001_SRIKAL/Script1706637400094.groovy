@@ -17,3 +17,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://amazon.com')
+
+WebUI.refresh()
+
+WebUI.click(findTestObject('AMAZON_PAGES/AMAZON_LOGIN_OR/PAGE_AMAZON_SIGN_IN/span_Hello, sign in'))
+
+WebUI.setText(findTestObject('AMAZON_PAGES/AMAZON_LOGIN_OR/PAGE_AMAZON_SIGN_IN/input_Email or mobile phone number_email'), 
+    '9347163977')
+
+WebUI.click(findTestObject('AMAZON_PAGES/AMAZON_LOGIN_OR/PAGE_AMAZON_SIGN_IN/input_Enter your email or mobile phone number_continue'))
+
+WebUI.setText(findTestObject('AMAZON_PAGES/AMAZON_LOGIN_OR/PAGE_AMAZON_SIGN_IN/input_Forgot your password_password'), 'smartbridge@123')
+
+WebUI.click(findTestObject('AMAZON_PAGES/AMAZON_LOGIN_OR/PAGE_AMAZON_SIGN_IN/input_Enter your password_signInSubmit'))
+
+WebUI.verifyElementPresent(findTestObject('AMAZON_PAGES/AMAZON_LOGIN_OR/PAGE_AMAZON_SIGN_IN/span_Hello, sign in'), 0)
+
+WebUI.closeBrowser()
+
