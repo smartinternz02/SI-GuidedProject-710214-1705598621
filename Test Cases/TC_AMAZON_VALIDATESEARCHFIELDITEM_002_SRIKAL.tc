@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_AMAZON_001</name>
+   <name>TC_AMAZON_VALIDATESEARCHFIELDITEM_002_SRIKAL</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>b3fa4aa4-3565-4747-b1b9-f1a8aa9f9bbc</testCaseGuid>
+   <testCaseGuid>75ecdc91-d77a-4410-8a52-f44aed8d3554</testCaseGuid>
 </TestCaseEntity>
