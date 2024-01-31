@@ -6,7 +6,7 @@ Name:SRIKAL KAKULA
 CONTACT Details: srikal.21bce7457@vitapstudent.ac.in
 
 
-uploaded all the documents incuding the test plan in folder  
+uploaded all the documents incuding the test plan in this repository 
 
 
 link:https://github.com/smartinternz02/SI-GuidedProject-710214-1705598621/tree/main/Test%20Plan
