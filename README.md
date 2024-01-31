@@ -1,9 +1,9 @@
 # SI-GuidedProject-710214-1705598621
 
-SRIKAL KAKULA
+Name:SRIKAL KAKULA
 
 
-CONTACT ME: srikal.21bce7457@vitapstudent.ac.in
+CONTACT Details: srikal.21bce7457@vitapstudent.ac.in
 
 
 uploaded all the documents incuding the test plan in folder  
