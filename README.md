@@ -6,6 +6,9 @@ Name:SRIKAL KAKULA
 CONTACT Details: srikal.21bce7457@vitapstudent.ac.in
 
 
+complete project file link: https://github.com/smartinternz02/SI-GuidedProject-710214-1705598621/blob/main/KATALON_STA_COMPLTE_FILE.zip
+
+
 uploaded all the documents incuding the test plan in this repository 
 
 
