@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Wish List</name>
+   <tag></tag>
+   <elementGuidId>2d13c85b-3dcb-4456-a00d-6f8d39b9be9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='activeCartViewForm']/div/p/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>29a9aba7-4b2a-4de4-8853-2be9c7ccd3e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-link-normal</value>
+      <webElementGuid>76d08a85-b647-4e8a-b31f-e2d5e4ce0f17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/gp/registry/wishlist/ref=ord_cart_empty</value>
+      <webElementGuid>e95c9b13-3fae-42ce-bcb5-bdf172f6242d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wish List</value>
+      <webElementGuid>38e74ae3-32ae-45a5-bcf9-7da8024eecd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;activeCartViewForm&quot;)/div[@class=&quot;sc-empty-cart sc-java-remote-feature&quot;]/p[1]/a[@class=&quot;a-link-normal&quot;]</value>
+      <webElementGuid>8c998977-4553-4e30-8c00-8dba1577f591</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='activeCartViewForm']/div/p/a[3]</value>
+      <webElementGuid>4884a754-4507-449e-8025-cfcc3956c417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Wish List')]</value>
+      <webElementGuid>ce3aca13-9e9f-4934-ad90-2456364136ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/gp/registry/wishlist/ref=ord_cart_empty')]</value>
+      <webElementGuid>af880fa3-3b7a-4d66-ab08-c23ae64d220f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a[3]</value>
+      <webElementGuid>f37d353a-6f18-4cf9-a618-d15b436e2d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/gp/registry/wishlist/ref=ord_cart_empty' and (text() = 'Wish List' or . = 'Wish List')]</value>
+      <webElementGuid>b1b0875d-d128-4f54-81d3-0c7634ec80a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

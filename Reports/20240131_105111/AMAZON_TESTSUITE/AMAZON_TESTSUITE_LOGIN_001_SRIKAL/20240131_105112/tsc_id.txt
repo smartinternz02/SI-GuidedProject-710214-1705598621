@@ -1,0 +1,1 @@
+Test Suites/AMAZON_TESTSUITE-COLLECTION/AMAZON_Suite_Collection_ALL

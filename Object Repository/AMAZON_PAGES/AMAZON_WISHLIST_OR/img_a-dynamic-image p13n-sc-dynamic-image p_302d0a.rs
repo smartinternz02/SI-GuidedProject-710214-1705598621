@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_a-dynamic-image p13n-sc-dynamic-image p_302d0a</name>
+   <tag></tag>
+   <elementGuidId>3d2eb4ab-5d96-44dd-98c2-50b3f67ae6b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='anonCarousel1']/ol/li/div/a/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.a-dynamic-image.p13n-sc-dynamic-image.p13n-product-image</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b5f5b63c-cb77-4083-9323-98b3ab979d01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>All-new Amazon Fire TV Stick 4K streaming device, more than 1.5 million movies and TV episodes, supports Wi-Fi 6, watch free </value>
+      <webElementGuid>75bb882b-8cae-4d7e-b5ee-9b58edabb0e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images-na.ssl-images-amazon.com/images/I/41vhe0X8wbL._AC_UL200_SR200,200_.jpg</value>
+      <webElementGuid>8a8a1139-e91a-436f-9abb-9fdb2ffe639a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-dynamic-image p13n-sc-dynamic-image p13n-product-image</value>
+      <webElementGuid>66ebf0c0-3ff6-49e8-ae75-b14dfb5da36e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>100px</value>
+      <webElementGuid>3fc66c76-b07e-4e7b-b815-e46edd41f42c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-a-dynamic-image</name>
+      <type>Main</type>
+      <value>{&quot;https://images-na.ssl-images-amazon.com/images/I/41vhe0X8wbL._AC_UL100_SR100,100_.jpg&quot;:[100,100],&quot;https://images-na.ssl-images-amazon.com/images/I/41vhe0X8wbL._AC_UL200_SR200,200_.jpg&quot;:[200,200],&quot;https://images-na.ssl-images-amazon.com/images/I/41vhe0X8wbL._AC_UL300_SR300,300_.jpg&quot;:[300,300]}</value>
+      <webElementGuid>0f8d6189-0b92-4ebb-8894-0aa49580cb15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;anonCarousel1&quot;)/ol[@class=&quot;a-carousel&quot;]/li[@class=&quot;a-carousel-card&quot;]/div[1]/a[@class=&quot;a-link-normal&quot;]/div[@class=&quot;a-section a-spacing-mini&quot;]/img[@class=&quot;a-dynamic-image p13n-sc-dynamic-image p13n-product-image&quot;]</value>
+      <webElementGuid>884fba28-240d-4465-aa90-cc7c93bcd76a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='anonCarousel1']/ol/li/div/a/div/img</value>
+      <webElementGuid>4a58ec7c-1e7b-4ff5-a7e8-59726ae51344</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='All-new Amazon Fire TV Stick 4K streaming device, more than 1.5 million movies and TV episodes, supports Wi-Fi 6, watch free ']</value>
+      <webElementGuid>078b13cd-d8a3-491c-800e-2224c3e318c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/div/img</value>
+      <webElementGuid>2670dc50-b1fd-4fc2-8848-294e72009f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'All-new Amazon Fire TV Stick 4K streaming device, more than 1.5 million movies and TV episodes, supports Wi-Fi 6, watch free ' and @src = 'https://images-na.ssl-images-amazon.com/images/I/41vhe0X8wbL._AC_UL200_SR200,200_.jpg']</value>
+      <webElementGuid>f8186400-81a2-46c0-90a5-21eae194eeed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

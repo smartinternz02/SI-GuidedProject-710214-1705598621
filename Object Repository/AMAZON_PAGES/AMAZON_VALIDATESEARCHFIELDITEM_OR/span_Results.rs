@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Results</name>
+   <tag></tag>
+   <elementGuidId>7823beb6-5595-46a8-952a-ee64dee7d232</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search']/div/div/div/span/div/div/div/span/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-size-medium-plus.a-color-base.a-text-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b6c47f11-48d1-43c8-b365-9835483275b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-medium-plus a-color-base a-text-bold</value>
+      <webElementGuid>be4fb07b-9df0-4078-b379-a300d03a0d8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Results</value>
+      <webElementGuid>3ad3e7c8-8771-49de-b1b4-60cb18939333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search&quot;)/div[@class=&quot;s-desktop-width-max s-desktop-content s-opposite-dir s-wide-grid-style sg-row&quot;]/div[@class=&quot;sg-col-20-of-24 s-matching-dir sg-col-16-of-20 sg-col sg-col-8-of-12 sg-col-12-of-16&quot;]/div[@class=&quot;sg-col-inner&quot;]/span[@class=&quot;rush-component s-latency-cf-section&quot;]/div[@class=&quot;s-main-slot s-result-list s-search-results sg-row&quot;]/div[@class=&quot;a-section a-spacing-none s-result-item s-flex-full-width s-border-bottom-none s-widget s-widget-spacing-large&quot;]/div[@class=&quot;s-widget-container s-spacing-mini s-widget-container-height-mini celwidget slot=MAIN template=TOP_BANNER_MESSAGE widgetId=messaging-messages-results-header-builder-legal-disclaimer-and-ranking-disclosure-builder&quot;]/span[@class=&quot;rush-component&quot;]/div[@class=&quot;a-section a-spacing-none s-messaging-widget-results-header&quot;]/div[@class=&quot;s-no-outline&quot;]/span[@class=&quot;a-size-medium-plus a-color-base a-text-bold&quot;]</value>
+      <webElementGuid>648615cc-b3d0-43ba-aa14-c32c9edb0c62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search']/div/div/div/span/div/div/div/span/div/div/span</value>
+      <webElementGuid>2227a2bf-a9e3-49db-b4f8-613e803b5c1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div/div/span/div/div/span</value>
+      <webElementGuid>fb19fefd-f096-49f1-b0fe-7643df87fbc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Results' or . = 'Results')]</value>
+      <webElementGuid>6c561961-66a8-4195-bb2e-65a87f381680</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

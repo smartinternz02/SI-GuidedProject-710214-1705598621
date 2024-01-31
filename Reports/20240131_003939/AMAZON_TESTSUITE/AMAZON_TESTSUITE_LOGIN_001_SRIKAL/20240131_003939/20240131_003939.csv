@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+AMAZON_TESTSUITE_LOGIN_001_SRIKAL,Chrome 121.0.0.0,,,31-01-2024 00:39:43,31-01-2024 00:40:12,28.370s,PASSED
+,,,,,,,
+Test Cases/TC_AMAZON_LOGIN_001_SRIKAL,Chrome 121.0.0.0,,,31-01-2024 00:39:44,31-01-2024 00:40:12,28.150s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,31-01-2024 00:39:44,31-01-2024 00:39:44,0.026s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,31-01-2024 00:39:44,31-01-2024 00:39:46,1.953s,PASSED
+"navigateToUrl(""https://amazon.com"")",Chrome 121.0.0.0,,,31-01-2024 00:39:46,31-01-2024 00:39:51,5.058s,PASSED
+refresh(),Chrome 121.0.0.0,,,31-01-2024 00:39:51,31-01-2024 00:39:52,1.428s,PASSED
+"click(findTestObject(""AMAZON_PAGES/AMAZON_LOGIN_OR/PAGE_AMAZON_SIGN_IN/span_Hello, sign in""))",Chrome 121.0.0.0,,,31-01-2024 00:39:52,31-01-2024 00:39:55,2.449s,PASSED
+"setText(findTestObject(""AMAZON_PAGES/AMAZON_LOGIN_OR/PAGE_AMAZON_SIGN_IN/input_Email or mobile phone number_email""), ""9347163977"")",Chrome 121.0.0.0,,,31-01-2024 00:39:55,31-01-2024 00:39:56,1.505s,PASSED
+"click(findTestObject(""AMAZON_PAGES/AMAZON_LOGIN_OR/PAGE_AMAZON_SIGN_IN/input_Enter your email or mobile phone number_continue""))",Chrome 121.0.0.0,,,31-01-2024 00:39:56,31-01-2024 00:39:59,2.536s,PASSED
+"setText(findTestObject(""AMAZON_PAGES/AMAZON_LOGIN_OR/PAGE_AMAZON_SIGN_IN/input_Forgot your password_password""), ""smartbridge@123"")",Chrome 121.0.0.0,,,31-01-2024 00:39:59,31-01-2024 00:40:00,1.789s,PASSED
+"click(findTestObject(""AMAZON_PAGES/AMAZON_LOGIN_OR/PAGE_AMAZON_SIGN_IN/input_Enter your password_signInSubmit""))",Chrome 121.0.0.0,,,31-01-2024 00:40:00,31-01-2024 00:40:01,0.386s,PASSED
+"verifyElementPresent(findTestObject(""AMAZON_PAGES/AMAZON_LOGIN_OR/PAGE_AMAZON_SIGN_IN/span_Hello, sign in""), 0)",Chrome 121.0.0.0,,,31-01-2024 00:40:01,31-01-2024 00:40:11,10.601s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,31-01-2024 00:40:11,31-01-2024 00:40:12,0.276s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,31-01-2024 00:40:12,31-01-2024 00:40:12,0.004s,PASSED

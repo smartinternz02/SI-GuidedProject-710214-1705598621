@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/AMAZON_PAGES/AMAZON_WISHLIST_OR/spandelete-button-I3VYV9IR48FE2Y",
+      "brokenLocator": "//span[@id\u003d\u0027delete-button-I3VYV9IR48FE2Y\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/form/span/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240131_105111/AMAZON_TESTSUITE/AMAZON_WISHLIST_003_SRIKAL/20240131_105116/Object Repository/AMAZON_PAGES/AMAZON_WISHLIST_OR/spandelete-button-I3VYV9IR48FE2Y_position.png"
+    }
+  ]
+}

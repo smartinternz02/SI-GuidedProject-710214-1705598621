@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View Your List</name>
+   <tag></tag>
+   <elementGuidId>4fe6f656-6669-42d8-b5a3-28f7d7bf0cff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='huc-view-your-list-button']/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#huc-view-your-list-button > span.a-button-inner > a.a-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>66b2e875-e40e-4973-969b-f5a238522646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.amazon.com/hz/wishlist/ls/15M0VI1NWZZBK?ref_=wl_dp_view_your_list</value>
+      <webElementGuid>96fe2715-d75b-4a34-b282-5aa18d9cbf72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button-text</value>
+      <webElementGuid>0b717e10-77bf-4b8a-9d86-90671860811a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Your List</value>
+      <webElementGuid>41c87bda-ed34-487e-ae47-8adc9e7947a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;huc-view-your-list-button&quot;)/span[@class=&quot;a-button-inner&quot;]/a[@class=&quot;a-button-text&quot;]</value>
+      <webElementGuid>325256b8-4d7b-4584-94e1-ee3488966ce9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='huc-view-your-list-button']/span/a</value>
+      <webElementGuid>d87e6850-0a80-4f06-8833-fd704cca919c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View Your List')]</value>
+      <webElementGuid>8baf488b-8e6f-4a58-ab80-15635fbb2bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.amazon.com/hz/wishlist/ls/15M0VI1NWZZBK?ref_=wl_dp_view_your_list')]</value>
+      <webElementGuid>a152cdff-55d1-4c46-8e61-96cf4e71a6ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/span/span/a</value>
+      <webElementGuid>d72ec0e4-4a2b-486f-94df-7003a397bc83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.amazon.com/hz/wishlist/ls/15M0VI1NWZZBK?ref_=wl_dp_view_your_list' and (text() = 'View Your List' or . = 'View Your List')]</value>
+      <webElementGuid>9080b68d-aeca-4691-b3d9-6e76b146e9fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

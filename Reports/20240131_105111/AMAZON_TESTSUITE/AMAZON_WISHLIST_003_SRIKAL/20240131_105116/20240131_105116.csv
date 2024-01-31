@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+AMAZON_WISHLIST_003_SRIKAL,Chrome 121.0.0.0,,,31-01-2024 10:51:26,31-01-2024 10:53:41,2m - 15.155s,PASSED
+,,,,,,,
+Test Cases/TC_AMAZON_WISHLIST_003_SRIKAL,Chrome 121.0.0.0,,,31-01-2024 10:51:26,31-01-2024 10:53:41,2m - 14.626s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,31-01-2024 10:51:26,31-01-2024 10:51:27,0.045s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,31-01-2024 10:51:27,31-01-2024 10:51:30,3.637s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,31-01-2024 10:51:30,31-01-2024 10:51:38,7.791s,PASSED
+"click(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_WISHLIST_OR/span_Hello, sign in""))",Chrome 121.0.0.0,,,31-01-2024 10:51:38,31-01-2024 10:52:02,24.172s,PASSED
+"setText(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_WISHLIST_OR/input_email""), ""9347163977"")",Chrome 121.0.0.0,,,31-01-2024 10:52:02,31-01-2024 10:52:05,2.969s,PASSED
+"click(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_WISHLIST_OR/inputcontinue""))",Chrome 121.0.0.0,,,31-01-2024 10:52:05,31-01-2024 10:52:08,2.824s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_WISHLIST_OR/input_password""), ""MbZHKJaDqoktgDwH6xdmAQ=="")",Chrome 121.0.0.0,,,31-01-2024 10:52:08,31-01-2024 10:52:09,1.063s,PASSED
+"click(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_WISHLIST_OR/inputsignInSubmit""))",Chrome 121.0.0.0,,,31-01-2024 10:52:09,31-01-2024 10:52:10,0.418s,PASSED
+"click(findTestObject(""AMAZON_PAGES/AMAZON_WISHLIST_OR/a_0                                                Cart""))",Chrome 121.0.0.0,,,31-01-2024 10:52:10,31-01-2024 10:52:25,15.165s,PASSED
+"click(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_WISHLIST_OR/a_Wish List""))",Chrome 121.0.0.0,,,31-01-2024 10:52:25,31-01-2024 10:52:28,3.390s,PASSED
+"click(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_WISHLIST_OR/img_a-dynamic-image p13n-sc-dynamic-image p_302d0a""))",Chrome 121.0.0.0,,,31-01-2024 10:52:28,31-01-2024 10:52:58,30.300s,PASSED
+"click(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_WISHLIST_OR/input_submit.add-to-registry.wishlist""))",Chrome 121.0.0.0,,,31-01-2024 10:52:58,31-01-2024 10:53:03,4.668s,PASSED
+"click(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_WISHLIST_OR/a_View Your List""))",Chrome 121.0.0.0,,,31-01-2024 10:53:03,31-01-2024 10:53:07,3.998s,PASSED
+"click(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_WISHLIST_OR/spandelete-button-I3VYV9IR48FE2Y""))",Chrome 121.0.0.0,,,31-01-2024 10:53:07,31-01-2024 10:53:41,33.613s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,31-01-2024 10:53:41,31-01-2024 10:53:41,0.279s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,31-01-2024 10:53:41,31-01-2024 10:53:41,0.007s,PASSED

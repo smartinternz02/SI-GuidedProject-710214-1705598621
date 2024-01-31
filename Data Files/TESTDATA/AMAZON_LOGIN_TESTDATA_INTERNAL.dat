@@ -9,6 +9,20 @@
    <dataFileGUID>f2e9516b-810d-484c-8c83-e1a3290c486f</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
+   <data>Books think+and+grow+rich</data>
+   <data>Electronics phone</data>
+   <data>Furniture desk</data>
+   <data>Home+appliances Washing+machine</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>catagory</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>search item</name>
+      <size>4</size>
+   </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>

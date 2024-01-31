@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+AMAZON_TESTSUITE_VALIDATESEARCHFIELDITEM_002_SRIKAL,Chrome 121.0.0.0,,,31-01-2024 10:51:26,31-01-2024 10:52:56,1m - 30.435s,PASSED
+,,,,,,,
+Test Cases/TC_AMAZON_VALIDATESEARCHFIELDITEM_002_SRIKAL,Chrome 121.0.0.0,,,31-01-2024 10:51:26,31-01-2024 10:52:27,1m - 0.552s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,31-01-2024 10:51:26,31-01-2024 10:51:26,0.049s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,31-01-2024 10:51:27,31-01-2024 10:51:30,3.566s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,31-01-2024 10:51:30,31-01-2024 10:51:37,6.669s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_VALIDATESEARCHFIELDITEM_OR/select_All Departments        Arts  Crafts _135c92""), ""search-alias=electronics-intl-ship"", true)",Chrome 121.0.0.0,,,31-01-2024 10:51:37,31-01-2024 10:52:08,31.097s,PASSED
+"setText(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_VALIDATESEARCHFIELDITEM_OR/input_field-keywords""), ""phone"")",Chrome 121.0.0.0,,,31-01-2024 10:52:08,31-01-2024 10:52:09,0.995s,PASSED
+"click(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_VALIDATESEARCHFIELDITEM_OR/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,31-01-2024 10:52:09,31-01-2024 10:52:21,11.910s,PASSED
+"click(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_VALIDATESEARCHFIELDITEM_OR/span_Results""))",Chrome 121.0.0.0,,,31-01-2024 10:52:21,31-01-2024 10:52:25,3.881s,PASSED
+"click(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_VALIDATESEARCHFIELDITEM_OR/span_Check each product page for other buyi_fdd351""))",Chrome 121.0.0.0,,,31-01-2024 10:52:25,31-01-2024 10:52:27,1.921s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,31-01-2024 10:52:27,31-01-2024 10:52:27,0.174s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,31-01-2024 10:52:27,31-01-2024 10:52:27,0.005s,PASSED
+,,,,,,,
+Test Cases/TC_AMAZON_VALIDATESEARCHFIELDITEM_002_SRIKAL - Copy,Chrome 121.0.0.0,,,31-01-2024 10:52:27,31-01-2024 10:52:56,29.382s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,31-01-2024 10:52:27,31-01-2024 10:52:27,0.003s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,31-01-2024 10:52:27,31-01-2024 10:52:28,1.118s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,31-01-2024 10:52:28,31-01-2024 10:52:30,1.803s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_VALIDATESEARCHFIELDITEM_OR/select_All Departments        Arts  Crafts _135c92""), ""search-alias=electronics-intl-ship"", true)",Chrome 121.0.0.0,,,31-01-2024 10:52:30,31-01-2024 10:52:47,17.198s,PASSED
+"setText(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_VALIDATESEARCHFIELDITEM_OR/input_field-keywords""), ""laptop"")",Chrome 121.0.0.0,,,31-01-2024 10:52:47,31-01-2024 10:52:49,1.583s,PASSED
+"click(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_VALIDATESEARCHFIELDITEM_OR/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,31-01-2024 10:52:49,31-01-2024 10:52:54,5.286s,PASSED
+"click(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_VALIDATESEARCHFIELDITEM_OR/span_Results""))",Chrome 121.0.0.0,,,31-01-2024 10:52:54,31-01-2024 10:52:55,1.355s,PASSED
+"click(findTestObject(""Object Repository/AMAZON_PAGES/AMAZON_VALIDATESEARCHFIELDITEM_OR/span_Check each product page for other buyi_fdd351""))",Chrome 121.0.0.0,,,31-01-2024 10:52:55,31-01-2024 10:52:56,0.694s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,31-01-2024 10:52:56,31-01-2024 10:52:56,0.255s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,31-01-2024 10:52:56,31-01-2024 10:52:56,0.002s,PASSED
